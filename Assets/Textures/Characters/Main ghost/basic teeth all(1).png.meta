@@ -1,0 +1,887 @@
+fileFormatVersion: 2
+guid: 08e7904f9640c3d448d13c4d43de2067
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: basic teeth all(1)_0
+    21300002: basic teeth all(1)_1
+    21300004: basic teeth all(1)_2
+    21300006: basic teeth all(1)_3
+    21300008: basic teeth all(1)_4
+    21300010: basic teeth all(1)_5
+    21300012: basic teeth all(1)_6
+    21300014: basic teeth all(1)_7
+    21300016: basic teeth all(1)_8
+    21300018: basic teeth all(1)_9
+    21300020: basic teeth all(1)_10
+    21300022: basic teeth all(1)_11
+    21300024: basic teeth all(1)_12
+    21300026: basic teeth all(1)_13
+    21300028: basic teeth all(1)_14
+    21300030: basic teeth all(1)_15
+    21300032: basic teeth all(1)_16
+    21300034: basic teeth all(1)_17
+    21300036: basic teeth all(1)_18
+    21300038: basic teeth all(1)_19
+    21300040: basic teeth all(1)_20
+    21300042: basic teeth all(1)_21
+    21300044: basic teeth all(1)_22
+    21300046: basic teeth all(1)_23
+    21300048: basic teeth all(1)_24
+    21300050: basic teeth all(1)_25
+    21300052: basic teeth all(1)_26
+    21300054: basic teeth all(1)_27
+    21300056: basic teeth all(1)_28
+    21300058: basic teeth all(1)_29
+    21300060: basic teeth all(1)_30
+    21300062: basic teeth all(1)_31
+    21300064: basic teeth all(1)_32
+    21300066: basic teeth all(1)_33
+    21300068: basic teeth all(1)_34
+    21300070: basic teeth all(1)_35
+    21300072: basic teeth all(1)_36
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: basic teeth all(1)_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 4
+        width: 83
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411edb0508576494cbd8c6dca8cb5b0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic teeth all(1)_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 3
+        width: 81
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6f4f70f3e602f43b7177122ec5490c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic teeth all(1)_2
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 5
+        width: 80
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c045053fd668542ba3a02524b7286e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic teeth all(1)_3
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 6
+        width: 79
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d3e9cff6034ff4eb9e996396a53049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic teeth all(1)_4
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 5
+        width: 76
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc644baf7c381b49b70f14fc6020838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic teeth all(1)_5
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 5
+        width: 73
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918c9a92f3aa08848b84a2c5bfa36274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic teeth all(1)_6
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 6
+        width: 70
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554572c83b515334089086a867b18a31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic teeth all(1)_7
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 10
+        width: 70
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbc6df7d4e2f68468b8fecd51df7236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic teeth all(1)_8
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 10
+        width: 73
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc5755453c366f4d9948a035afffb59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic teeth all(1)_9
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 8
+        width: 76
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d879544239869bf46bd567f13c92849d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic teeth all(1)_10
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 8
+        width: 77
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb14450b758359a4791b2afccf22c1f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic teeth all(1)_11
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 8
+        width: 79
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a727e2127cdd746908e35c2bc5983a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic teeth all(1)_12
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 7
+        width: 83
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf82c2b5dedfe04b8ced3c7dfdf2dd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic teeth all(1)_13
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 8
+        width: 81
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b40fe0cbd05d5f4c9dbcee326b9713a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic teeth all(1)_14
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 7
+        width: 80
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55ac3b69cf24f446be323b883151b35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic teeth all(1)_15
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 9
+        width: 79
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1a01b5d743f6c40bb2f76865b9193f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic teeth all(1)_16
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 6
+        width: 76
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302782445a068824aa8fd6631e721974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic teeth all(1)_17
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 6
+        width: 73
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a81877ec8fe00a4abf72f296049e9e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic teeth all(1)_18
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 6
+        width: 70
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bdc38c41cec739409d310e101b8edfa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic teeth all(1)_19
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 8
+        width: 70
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbeecb9978fbd63419480b55e632c39c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic teeth all(1)_20
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 10
+        width: 73
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b019793a9e62c42ab9fdefcaf5f3e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic teeth all(1)_21
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 10
+        width: 76
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6648f90ab2fa59e4ebb390b6fc3082cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic teeth all(1)_22
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 8
+        width: 77
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1a3411bde560643b55fae34f9dbab3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic teeth all(1)_23
+      rect:
+        serializedVersion: 2
+        x: 2386
+        y: 8
+        width: 79
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26ffc34f239ff14d8230e8cf9e61da7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic teeth all(1)_24
+      rect:
+        serializedVersion: 2
+        x: 2505
+        y: 6
+        width: 83
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef2b1986621033488c45f97fa2f3ed5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic teeth all(1)_25
+      rect:
+        serializedVersion: 2
+        x: 2633
+        y: 7
+        width: 81
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902ee0352f163f9418b256e824116edd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic teeth all(1)_26
+      rect:
+        serializedVersion: 2
+        x: 2745
+        y: 7
+        width: 80
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe4ba7531d9976469ee69d426d627e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic teeth all(1)_27
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 6
+        width: 79
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fcb9b5f3a8d3d54ebd555d04492998d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic teeth all(1)_28
+      rect:
+        serializedVersion: 2
+        x: 2971
+        y: 6
+        width: 76
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e3c164f0f073d408b7cf30ae2c6e15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic teeth all(1)_29
+      rect:
+        serializedVersion: 2
+        x: 3087
+        y: 6
+        width: 73
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17f04e146879c846927f09dc8b9bb27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic teeth all(1)_30
+      rect:
+        serializedVersion: 2
+        x: 3202
+        y: 5
+        width: 70
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb205ab4cd62574f9134b77d58af4c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic teeth all(1)_31
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 5
+        width: 70
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d6024678a666d40a531136000385f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic teeth all(1)_32
+      rect:
+        serializedVersion: 2
+        x: 3417
+        y: 6
+        width: 73
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647a76a2a78d14e46a3f44a3828e193f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic teeth all(1)_33
+      rect:
+        serializedVersion: 2
+        x: 3524
+        y: 7
+        width: 76
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b38d7e9f8a1db540bc7ef7cabb11d9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic teeth all(1)_34
+      rect:
+        serializedVersion: 2
+        x: 3638
+        y: 6
+        width: 77
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3cc1eb3a8213ec4388c68c4365f3939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic teeth all(1)_35
+      rect:
+        serializedVersion: 2
+        x: 3749
+        y: 6
+        width: 79
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c0bc7c9452ed54ba2353bf48757282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic teeth all(1)_36
+      rect:
+        serializedVersion: 2
+        x: 3867
+        y: 6
+        width: 83
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de311a3b73155a4b922028341557e06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a7883fe732b797640b5716ff80d7f1ba
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1790 @@
+fileFormatVersion: 2
+guid: 44f9df9a6bad4754dbf46b46fad6d9e8
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TykvaVse_0
+    21300002: TykvaVse_1
+    21300004: TykvaVse_2
+    21300006: TykvaVse_3
+    21300008: TykvaVse_4
+    21300010: TykvaVse_5
+    21300012: TykvaVse_6
+    21300014: TykvaVse_7
+    21300016: TykvaVse_8
+    21300018: TykvaVse_9
+    21300020: TykvaVse_10
+    21300022: TykvaVse_11
+    21300024: TykvaVse_12
+    21300026: TykvaVse_13
+    21300028: TykvaVse_14
+    21300030: TykvaVse_15
+    21300032: TykvaVse_16
+    21300034: TykvaVse_17
+    21300036: TykvaVse_18
+    21300038: TykvaVse_19
+    21300040: TykvaVse_20
+    21300042: TykvaVse_21
+    21300044: TykvaVse_22
+    21300046: TykvaVse_23
+    21300048: TykvaVse_24
+    21300050: TykvaVse_25
+    21300052: TykvaVse_26
+    21300054: TykvaVse_27
+    21300056: TykvaVse_28
+    21300058: TykvaVse_29
+    21300060: TykvaVse_30
+    21300062: TykvaVse_31
+    21300064: TykvaVse_32
+    21300066: TykvaVse_33
+    21300068: TykvaVse_34
+    21300070: TykvaVse_35
+    21300072: TykvaVse_36
+    21300074: TykvaVse_37
+    21300076: TykvaVse_38
+    21300078: TykvaVse_39
+    21300080: TykvaVse_40
+    21300082: TykvaVse_41
+    21300084: TykvaVse_42
+    21300086: TykvaVse_43
+    21300088: TykvaVse_44
+    21300090: TykvaVse_45
+    21300092: TykvaVse_46
+    21300094: TykvaVse_47
+    21300096: TykvaVse_48
+    21300098: TykvaVse_49
+    21300100: TykvaVse_50
+    21300102: TykvaVse_51
+    21300104: TykvaVse_52
+    21300106: TykvaVse_53
+    21300108: TykvaVse_54
+    21300110: TykvaVse_55
+    21300112: TykvaVse_56
+    21300114: TykvaVse_57
+    21300116: TykvaVse_58
+    21300118: TykvaVse_59
+    21300120: TykvaVse_60
+    21300122: TykvaVse_61
+    21300124: TykvaVse_62
+    21300126: TykvaVse_63
+    21300128: TykvaVse_64
+    21300130: TykvaVse_65
+    21300132: TykvaVse_66
+    21300134: TykvaVse_67
+    21300136: TykvaVse_68
+    21300138: TykvaVse_69
+    21300140: TykvaVse_70
+    21300142: TykvaVse_71
+    21300144: TykvaVse_72
+    21300146: TykvaVse_73
+    21300148: TykvaVse_74
+    21300150: TykvaVse_75
+    21300152: TykvaVse_76
+    21300154: TykvaVse_77
+    21300156: TykvaVse_78
+    21300158: TykvaVse_79
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TykvaVse_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 574
+        width: 327
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940ddbacb3ed36c43a0dd2d37599101c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_1
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 576
+        width: 327
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3094ff0232be5184db595f97ce73047a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_2
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 575
+        width: 327
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2499fe6917dcae145b37f1637510f71c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_3
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 574
+        width: 327
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc685a0c030cd745b71b0bb40516b72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_4
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 570
+        width: 314
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f0c23ed1b0113409871e61e480ee71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_5
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 571
+        width: 298
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e47cfe0d0b07104da8e50a0d1165a31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_6
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 572
+        width: 310
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9015f4bb4caec478f03957ee324f36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_7
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 565
+        width: 302
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35ab5d1acc24104b9a594300dcf997d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_8
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 566
+        width: 301
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca52992cfd6024469f85207f0780845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_9
+      rect:
+        serializedVersion: 2
+        x: 2953
+        y: 567
+        width: 308
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbae176e8f30e944597aa187c03b94ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_10
+      rect:
+        serializedVersion: 2
+        x: 3287
+        y: 565
+        width: 300
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c7653a5595a7941b787f8fab0ac6c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_11
+      rect:
+        serializedVersion: 2
+        x: 3642
+        y: 564
+        width: 271
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d92e96b632dfc499de78ea8447ca7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_12
+      rect:
+        serializedVersion: 2
+        x: 3960
+        y: 569
+        width: 279
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b753bcdaa877c438b21f2c79de365b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_13
+      rect:
+        serializedVersion: 2
+        x: 4270
+        y: 570
+        width: 295
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b98cd6577d0ed42b21bda8985fbf7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_14
+      rect:
+        serializedVersion: 2
+        x: 4605
+        y: 573
+        width: 286
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efeec2aac5fed044994a03593ef38de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_15
+      rect:
+        serializedVersion: 2
+        x: 4934
+        y: 574
+        width: 283
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e538f0b4e2a0643b28d7150f2ae5bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_16
+      rect:
+        serializedVersion: 2
+        x: 5264
+        y: 575
+        width: 279
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcd569a4806a824f8778cd0c01124b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 403.5
+        width: 326.86365
+        height: 156.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd25b85eaae6c2408483ad3c16a96d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_18
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 399
+        width: 327
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255728acbe3fe84419978e6226cfc6ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_19
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 399
+        width: 327
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfa88bb19135dc4e9e551842ed173ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_20
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 396
+        width: 323
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4051f08a27ba74586d6a9f11541421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_21
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 393
+        width: 327
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bce1b91fd91097448faa45acc0cfd4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_22
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 394
+        width: 281
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1442c39d82d217841a2f7ac61a77f481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_23
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 396
+        width: 290
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7276248d94f324ea1d61272d6eaa91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_24
+      rect:
+        serializedVersion: 2
+        x: 2282
+        y: 402
+        width: 288
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e3e5a2ea9ff4740a8bd5e311213539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_25
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 401
+        width: 293
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0ad63f2adc8f8488d06efdd1c725c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_26
+      rect:
+        serializedVersion: 2
+        x: 2934
+        y: 400
+        width: 302
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb69718ccb078441bae9c3c58b62684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_27
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 394
+        width: 309
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a744300a1ed8eaa4ca682f3a9435d19c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_28
+      rect:
+        serializedVersion: 2
+        x: 3586
+        y: 396
+        width: 312
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be344f25e54b07d4c81b470246852f4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_29
+      rect:
+        serializedVersion: 2
+        x: 3912
+        y: 398
+        width: 319
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632868f9e2437ee43a14677b3aa09d77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_30
+      rect:
+        serializedVersion: 2
+        x: 4238
+        y: 398
+        width: 327
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7285c21ac693d4dbb34a7425dad2e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_31
+      rect:
+        serializedVersion: 2
+        x: 4587
+        y: 399
+        width: 304
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a60e31aed7cb9e4f9ae38f40e957b6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_32
+      rect:
+        serializedVersion: 2
+        x: 4929
+        y: 400
+        width: 288
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478f5ecc9988d4c44a287cf748c4b9e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_33
+      rect:
+        serializedVersion: 2
+        x: 5262
+        y: 402
+        width: 281
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d4af6361085324f88eb4abc1da0d3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_34
+      rect:
+        serializedVersion: 2
+        x: 5592
+        y: 402
+        width: 277
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634d5ca01fa4f864db1f288283b6947a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_35
+      rect:
+        serializedVersion: 2
+        x: 5919
+        y: 400
+        width: 276
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c8913fe162a934da385053b930661e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_36
+      rect:
+        serializedVersion: 2
+        x: 6252
+        y: 401
+        width: 269
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b2d3facce36b042ade9c9ae27af224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_37
+      rect:
+        serializedVersion: 2
+        x: 6579
+        y: 401
+        width: 268
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ab6de138939dd4790cb8d585d78ba7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_38
+      rect:
+        serializedVersion: 2
+        x: 6909
+        y: 402
+        width: 264
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345f2bcdd06b72d44a56e3b789cd17ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 218
+        width: 327
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330e61ca403037b43b6a2136880fb23f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_40
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 218
+        width: 327
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd06cf0823a64d44db03ba35282dff53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_41
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 218
+        width: 327
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad25aad6b1ddfa49aca77575ad9db98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_42
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 218
+        width: 327
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86df114cd4bc0b4f85964cd699ab046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_43
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 218
+        width: 327
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f43e8879239144ca47cec2f70f96ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_44
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 218
+        width: 327
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be9146fd62b930469d170a3e803f81b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_45
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 218
+        width: 327
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7937724f720045c4fb1e24433d870c36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_46
+      rect:
+        serializedVersion: 2
+        x: 2282
+        y: 218
+        width: 327
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd80948f9ac435b43a8003d5f7d80111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_47
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 218
+        width: 327
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f1302efe881ea49a6a84ed65ba9fe9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_48
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 223
+        width: 315
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32bc740585155241a0f56cde6731ada
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_49
+      rect:
+        serializedVersion: 2
+        x: 3283
+        y: 228
+        width: 304
+        height: 163
+      alignment: 9
+      pivot: {x: 0.5029337, y: 0.4781073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418e34535e1c9b148b7be1f2f0f94adb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_50
+      rect:
+        serializedVersion: 2
+        x: 3613
+        y: 229
+        width: 300
+        height: 163
+      alignment: 9
+      pivot: {x: 0.50594646, y: 0.4671612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3834ffc7fc60bf94ba65e6be8a84f693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_51
+      rect:
+        serializedVersion: 2
+        x: 3942
+        y: 231
+        width: 297
+        height: 158
+      alignment: 9
+      pivot: {x: 0.49999836, y: 0.4774145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b15e84d8f40374a8fa72817d0c7677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_52
+      rect:
+        serializedVersion: 2
+        x: 4272
+        y: 229
+        width: 293
+        height: 164
+      alignment: 9
+      pivot: {x: 0.503043, y: 0.4728012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d4de451de93d64881a3ab9c883a8cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_53
+      rect:
+        serializedVersion: 2
+        x: 4602
+        y: 228
+        width: 289
+        height: 164
+      alignment: 9
+      pivot: {x: 0.4999983, y: 0.47280103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12bf0b28781a1dd4d9eec49abbea0a0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_54
+      rect:
+        serializedVersion: 2
+        x: 4933
+        y: 228
+        width: 284
+        height: 164
+      alignment: 9
+      pivot: {x: 0.49999827, y: 0.46736127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8723e133bb7e81c49ab9d3489c938a15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_55
+      rect:
+        serializedVersion: 2
+        x: 5262
+        y: 228
+        width: 281
+        height: 163
+      alignment: 9
+      pivot: {x: 0.49999827, y: 0.4671612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e158f0d20911f246af300f0254f0ac0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_56
+      rect:
+        serializedVersion: 2
+        x: 5596
+        y: 228
+        width: 273
+        height: 163
+      alignment: 9
+      pivot: {x: 0.4999982, y: 0.4671612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b1ac046c3b12d409fd3e9851bbeda1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_57
+      rect:
+        serializedVersion: 2
+        x: 5929
+        y: 230
+        width: 271
+        height: 160
+      alignment: 9
+      pivot: {x: 0.4999982, y: 0.46096954}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2684501e60b7e468117dbd4b538ba8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_58
+      rect:
+        serializedVersion: 2
+        x: 6194
+        y: 217.5
+        width: 326.86365
+        height: 156.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368159a9c34e39b4f9f0985cd06aaf52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 327
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ad9283e8c48d447970d6d20e45bb94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_60
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 47
+        width: 327
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48399ba626140034c81906e8bdaccca4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_61
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 47
+        width: 327
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c7780822c203f40bd3ec9d5ef5fd3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_62
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 47
+        width: 327
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbba3f9d04c61641ac8547432b86558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_63
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 47
+        width: 327
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753ffd817df80744d88a4e4a7701ed78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_64
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 47
+        width: 327
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a59c944d1b1eb94c9033dca3b8f2249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_65
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 47
+        width: 327
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b784e9460eb72a49aa343f7f7889a65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_66
+      rect:
+        serializedVersion: 2
+        x: 2282
+        y: 47
+        width: 327
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ab8f6b89a327e479cec8713799e9d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_67
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 47
+        width: 327
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7a37cb442e8da48a53a97074c9121c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_68
+      rect:
+        serializedVersion: 2
+        x: 2934
+        y: 39
+        width: 327
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b0cf7346088aa489cb80a6c50546ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_69
+      rect:
+        serializedVersion: 2
+        x: 3271
+        y: 0
+        width: 328
+        height: 220
+      alignment: 9
+      pivot: {x: 0.5000015, y: 0.56975967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c747e864ef5e052469e390bc54f00bf5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_70
+      rect:
+        serializedVersion: 2
+        x: 3603
+        y: 0
+        width: 332
+        height: 222
+      alignment: 9
+      pivot: {x: 0.47331586, y: 0.5648102}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af397be9e5f9c394794699b8318962b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_71
+      rect:
+        serializedVersion: 2
+        x: 3938
+        y: 0
+        width: 325
+        height: 220
+      alignment: 9
+      pivot: {x: 0.474133, y: 0.5697599}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609251ce5b2122f4986c4fe30e2d6e8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_72
+      rect:
+        serializedVersion: 2
+        x: 4265
+        y: 0
+        width: 328
+        height: 219
+      alignment: 9
+      pivot: {x: 0.47812858, y: 0.5656982}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224022cb2588f2942990fc396b5942ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_73
+      rect:
+        serializedVersion: 2
+        x: 4606
+        y: 0
+        width: 315
+        height: 223
+      alignment: 9
+      pivot: {x: 0.4688957, y: 0.5516161}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1cc0571b6264f419eb8b2c934a40fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_74
+      rect:
+        serializedVersion: 2
+        x: 4924
+        y: 0
+        width: 317
+        height: 223
+      alignment: 9
+      pivot: {x: 0.4952512, y: 0.554014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4531246128d25ef4aaebb4db3a9fffb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_75
+      rect:
+        serializedVersion: 2
+        x: 5270
+        y: 32
+        width: 273
+        height: 185
+      alignment: 9
+      pivot: {x: 0.4770633, y: 0.5067695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e46958f1558d2449e11d78a7238075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_76
+      rect:
+        serializedVersion: 2
+        x: 5596
+        y: 32
+        width: 278
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe8b3d06c8775c4f892705c31a21f33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_77
+      rect:
+        serializedVersion: 2
+        x: 5924
+        y: 32
+        width: 281
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ce34d231c21214a88a7a653d904cc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_78
+      rect:
+        serializedVersion: 2
+        x: 6248
+        y: 32
+        width: 295
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5c46311306d3a49b9a3f1e04b693d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TykvaVse_79
+      rect:
+        serializedVersion: 2
+        x: 6520
+        y: 31.5
+        width: 326.86365
+        height: 156.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47db3c7e9bcc5bc4aa7b92a23fd5e649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ea140d71e3c18b440a5243d0f30a2e83
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

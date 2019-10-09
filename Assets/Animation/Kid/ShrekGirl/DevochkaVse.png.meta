@@ -1,0 +1,1811 @@
+fileFormatVersion: 2
+guid: 246528145398eb847aef519670f731e0
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DevochkaVse_0
+    21300002: DevochkaVse_1
+    21300004: DevochkaVse_2
+    21300006: DevochkaVse_3
+    21300008: DevochkaVse_4
+    21300010: DevochkaVse_5
+    21300012: DevochkaVse_6
+    21300014: DevochkaVse_7
+    21300016: DevochkaVse_8
+    21300018: DevochkaVse_9
+    21300020: DevochkaVse_10
+    21300022: DevochkaVse_11
+    21300024: DevochkaVse_12
+    21300026: DevochkaVse_13
+    21300028: DevochkaVse_14
+    21300030: DevochkaVse_15
+    21300032: DevochkaVse_16
+    21300034: DevochkaVse_17
+    21300036: DevochkaVse_18
+    21300038: DevochkaVse_19
+    21300040: DevochkaVse_20
+    21300042: DevochkaVse_21
+    21300044: DevochkaVse_22
+    21300046: DevochkaVse_23
+    21300048: DevochkaVse_24
+    21300050: DevochkaVse_25
+    21300052: DevochkaVse_26
+    21300054: DevochkaVse_27
+    21300056: DevochkaVse_28
+    21300058: DevochkaVse_29
+    21300060: DevochkaVse_30
+    21300062: DevochkaVse_31
+    21300064: DevochkaVse_32
+    21300066: DevochkaVse_33
+    21300068: DevochkaVse_34
+    21300070: DevochkaVse_35
+    21300072: DevochkaVse_36
+    21300074: DevochkaVse_37
+    21300076: DevochkaVse_38
+    21300078: DevochkaVse_39
+    21300080: DevochkaVse_40
+    21300082: DevochkaVse_41
+    21300084: DevochkaVse_42
+    21300086: DevochkaVse_43
+    21300088: DevochkaVse_44
+    21300090: DevochkaVse_45
+    21300092: DevochkaVse_46
+    21300094: DevochkaVse_47
+    21300096: DevochkaVse_48
+    21300098: DevochkaVse_49
+    21300100: DevochkaVse_50
+    21300102: DevochkaVse_51
+    21300104: DevochkaVse_52
+    21300106: DevochkaVse_53
+    21300108: DevochkaVse_54
+    21300110: DevochkaVse_55
+    21300112: DevochkaVse_56
+    21300114: DevochkaVse_57
+    21300116: DevochkaVse_58
+    21300118: DevochkaVse_59
+    21300120: DevochkaVse_60
+    21300122: DevochkaVse_61
+    21300124: DevochkaVse_62
+    21300126: DevochkaVse_63
+    21300128: DevochkaVse_64
+    21300130: DevochkaVse_65
+    21300132: DevochkaVse_66
+    21300134: DevochkaVse_67
+    21300136: DevochkaVse_68
+    21300138: DevochkaVse_69
+    21300140: DevochkaVse_70
+    21300142: DevochkaVse_71
+    21300144: DevochkaVse_72
+    21300146: DevochkaVse_73
+    21300148: DevochkaVse_74
+    21300150: DevochkaVse_75
+    21300152: DevochkaVse_76
+    21300154: DevochkaVse_77
+    21300156: DevochkaVse_78
+    21300158: DevochkaVse_79
+    21300160: DevochkaVse_80
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DevochkaVse_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 576.75
+        width: 328.33334
+        height: 192.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbcfb0708a324b4e829b4d0ba5b8335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_1
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 576.75
+        width: 328.33334
+        height: 192.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc3bb1766ce5da4393d1faa542f1c80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_2
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 576.75
+        width: 328.33334
+        height: 192.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a451971da76304e428609c710f933ea1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_3
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 576.75
+        width: 328.33334
+        height: 192.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d5ac8a4978ad04f9332a557087485e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_4
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 576.75
+        width: 328.33334
+        height: 192.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d714bdb61c3019e4a8d0d79ab664f390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_5
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 577
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc69d7cd7ff7dc64492a617f4630554d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_6
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 577
+        width: 295
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b5d00c3da490047bd489c5904549fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_7
+      rect:
+        serializedVersion: 2
+        x: 2302
+        y: 577
+        width: 302
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90a3f3aa2a7f26468503f5bac79a49f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_8
+      rect:
+        serializedVersion: 2
+        x: 2630
+        y: 577
+        width: 317
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1bd5590ce23bf4b8dbf8dceeef6fc8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_9
+      rect:
+        serializedVersion: 2
+        x: 2958
+        y: 576.75
+        width: 328.33334
+        height: 192.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c61a2960205c84f8edd9a0b99d0908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_10
+      rect:
+        serializedVersion: 2
+        x: 3286
+        y: 576.75
+        width: 328.33334
+        height: 192.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba73338502c6754f82347875b78c63a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_11
+      rect:
+        serializedVersion: 2
+        x: 3614
+        y: 576.75
+        width: 328.33334
+        height: 192.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fec1f67b0531143a315b8aa396d92b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_12
+      rect:
+        serializedVersion: 2
+        x: 3942
+        y: 576.75
+        width: 328.33334
+        height: 192.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60ecb5e3e174b248a974aae27a62b2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_13
+      rect:
+        serializedVersion: 2
+        x: 4270
+        y: 577
+        width: 325
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2be5e26c39944419df4cef176723b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_14
+      rect:
+        serializedVersion: 2
+        x: 4598
+        y: 576.75
+        width: 328.33334
+        height: 192.25
+      alignment: 9
+      pivot: {x: 0.5442259, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891ccecc9f4687945ab25188d2160965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_15
+      rect:
+        serializedVersion: 2
+        x: 4926
+        y: 576.75
+        width: 328.33334
+        height: 192.25
+      alignment: 9
+      pivot: {x: 0.5294852, y: 0.4937057}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f094fecf555354e96e7b080983fbc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_16
+      rect:
+        serializedVersion: 2
+        x: 5254
+        y: 576.75
+        width: 328.33334
+        height: 192.25
+      alignment: 9
+      pivot: {x: 0.51842827, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0119c982c655eb46b616bc4b638804c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_17
+      rect:
+        serializedVersion: 2
+        x: 5582
+        y: 576.75
+        width: 328.33334
+        height: 192.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468a4a0236f18a848a6e2775bfcb4282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_18
+      rect:
+        serializedVersion: 2
+        x: 5910
+        y: 576.75
+        width: 328.33334
+        height: 192.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da25f59486f19b34097582e8b1aea70a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_19
+      rect:
+        serializedVersion: 2
+        x: 6238
+        y: 577
+        width: 323
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd99b356636f984c8fea14cc34495d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_20
+      rect:
+        serializedVersion: 2
+        x: 6566
+        y: 577
+        width: 322
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36faae122b2d58d44a917ec56c324781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_21
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 384.75
+        width: 328.33334
+        height: 192.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a69eaa66c33944c92f59712269c1c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_22
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 384.75
+        width: 328.33334
+        height: 192.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0d8377488eeda44b1d23eaf68816b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_23
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 384.75
+        width: 328.33334
+        height: 192.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66679bf4fe10bc1438cdb8d459e4c11a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_24
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 384.75
+        width: 328.33334
+        height: 192.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93336a8ae2b54944888525990858eeee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_25
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 384.75
+        width: 328.33334
+        height: 192.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9983a446834095e459caca0b815014d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_26
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 384.75
+        width: 328.33334
+        height: 192.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39494cda4485f304e84d371287afed25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_27
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 387
+        width: 328
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97591c1723610148849b4fbc80dcf13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_28
+      rect:
+        serializedVersion: 2
+        x: 2302
+        y: 384.75
+        width: 328.33334
+        height: 192.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b428cb9c22d2c4184edf08637fe22c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_29
+      rect:
+        serializedVersion: 2
+        x: 2630
+        y: 384.75
+        width: 328.33334
+        height: 192.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef519f15aeb96f48a41036ae99c1539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_30
+      rect:
+        serializedVersion: 2
+        x: 2958
+        y: 384.75
+        width: 328.33334
+        height: 192.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12fd78524c7e6f4887fe3d6b640d71b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_31
+      rect:
+        serializedVersion: 2
+        x: 3286
+        y: 384.75
+        width: 328.33334
+        height: 192.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76786b91da05474884a26aa4642a3a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_32
+      rect:
+        serializedVersion: 2
+        x: 3614
+        y: 384.75
+        width: 328.33334
+        height: 192.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0092d8959a661984aa36ef13084d889f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_33
+      rect:
+        serializedVersion: 2
+        x: 3942
+        y: 385
+        width: 344
+        height: 192
+      alignment: 9
+      pivot: {x: 0.47732332, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce422a20ac3b964d83b4d7e4be7d944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_34
+      rect:
+        serializedVersion: 2
+        x: 4270
+        y: 385
+        width: 337
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c554848c2da604c88e3183a76175fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_35
+      rect:
+        serializedVersion: 2
+        x: 4598
+        y: 385
+        width: 330
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ea57dcb15feb74d86e416321846388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_36
+      rect:
+        serializedVersion: 2
+        x: 4926
+        y: 385
+        width: 333
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e0ba734fcc659419e2ae21f53cb426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_37
+      rect:
+        serializedVersion: 2
+        x: 5254
+        y: 385
+        width: 337
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96093926c9c8ea428c685f0c234ddc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_38
+      rect:
+        serializedVersion: 2
+        x: 5582
+        y: 385
+        width: 341
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9b51451e29abd42ac10d3121e6707d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_39
+      rect:
+        serializedVersion: 2
+        x: 5910
+        y: 385
+        width: 345
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797c5c5651fba2a4d9562f9d45022a14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_40
+      rect:
+        serializedVersion: 2
+        x: 6238
+        y: 384.75
+        width: 328.33334
+        height: 192.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ec65bee40c8d74192236ba7fbfd232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_41
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 220
+        width: 328
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8572e0baaef9942863231a0ecc174f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_42
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 222
+        width: 328
+        height: 166
+      alignment: 9
+      pivot: {x: 0.50985736, y: 0.50000036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9db10acccdda94e8b106cedd004216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_43
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 219
+        width: 328
+        height: 171
+      alignment: 9
+      pivot: {x: 0.5123218, y: 0.5047272}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a47739ee803b74d92b706d87ad7192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_44
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 215
+        width: 328
+        height: 179
+      alignment: 9
+      pivot: {x: 0.512322, y: 0.50000036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05efd250a0be22942be979d1186d619a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_45
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 218
+        width: 332
+        height: 172
+      alignment: 9
+      pivot: {x: 0.49756557, y: 0.50939906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0a7f9bdda89234796c8f85b289be1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_46
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 216
+        width: 331
+        height: 176
+      alignment: 9
+      pivot: {x: 0.48779038, y: 0.48622236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc74f20da5e47c74b88eccb2d7c614d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_47
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 216
+        width: 340
+        height: 179
+      alignment: 9
+      pivot: {x: 0.46196288, y: 0.4683906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3533c222e030a6448f84af97ff653a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_48
+      rect:
+        serializedVersion: 2
+        x: 2302
+        y: 215
+        width: 343
+        height: 179
+      alignment: 9
+      pivot: {x: 0.44580007, y: 0.46839094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4012815dcf2254eb06f6b6f5d40cc2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_49
+      rect:
+        serializedVersion: 2
+        x: 2630
+        y: 215
+        width: 344
+        height: 176
+      alignment: 9
+      pivot: {x: 0.4517645, y: 0.467852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20396840cdf8584cbc6f0bac24e627f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_50
+      rect:
+        serializedVersion: 2
+        x: 2958
+        y: 213
+        width: 328
+        height: 179
+      alignment: 9
+      pivot: {x: 0.48260945, y: 0.49096885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d6eeafd2db35e448f1f5f17cae4492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_51
+      rect:
+        serializedVersion: 2
+        x: 3286
+        y: 216
+        width: 328
+        height: 176
+      alignment: 9
+      pivot: {x: 0.49087226, y: 0.4967575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9926fbeb740264890f22eea411f48c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_52
+      rect:
+        serializedVersion: 2
+        x: 3614
+        y: 220
+        width: 328
+        height: 170
+      alignment: 9
+      pivot: {x: 0.5088471, y: 0.49188843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6acaef120e82bf46b708430a731ded6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_53
+      rect:
+        serializedVersion: 2
+        x: 3942
+        y: 218
+        width: 328
+        height: 173
+      alignment: 9
+      pivot: {x: 0.52189374, y: 0.49697754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8f16ca3303ba3469170528296da0de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_54
+      rect:
+        serializedVersion: 2
+        x: 4270
+        y: 220
+        width: 328
+        height: 169
+      alignment: 9
+      pivot: {x: 0.5231978, y: 0.50000054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd5b3d082149ab499fcb12c6bf55578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_55
+      rect:
+        serializedVersion: 2
+        x: 4598
+        y: 219
+        width: 328
+        height: 175
+      alignment: 9
+      pivot: {x: 0.51971585, y: 0.4861438}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4658bead1fd5f4198853501f6b32c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_56
+      rect:
+        serializedVersion: 2
+        x: 4925
+        y: 221
+        width: 328
+        height: 167
+      alignment: 9
+      pivot: {x: 0.5147869, y: 0.50000036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7224bc743f609fd4586249efbd7eb4eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_57
+      rect:
+        serializedVersion: 2
+        x: 5254
+        y: 219
+        width: 328
+        height: 171
+      alignment: 9
+      pivot: {x: 0.5098609, y: 0.50000054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535cce16f045c5345a0ed039823ae6fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_58
+      rect:
+        serializedVersion: 2
+        x: 5582
+        y: 218
+        width: 328
+        height: 171
+      alignment: 9
+      pivot: {x: 0.5073957, y: 0.50945437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0890e163532aaa344b9d8d65ef2e3cd0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_59
+      rect:
+        serializedVersion: 2
+        x: 5910
+        y: 219
+        width: 328
+        height: 172
+      alignment: 9
+      pivot: {x: 0.5073942, y: 0.50470006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9394fb5c04808e40ac9daa83cd7a48d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_60
+      rect:
+        serializedVersion: 2
+        x: 6238
+        y: 220
+        width: 328
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e8d3a71e0c5c643b46f539447c1adf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_61
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 33
+        width: 328
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c3c442fd40da84e8179add178c1163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_62
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 36
+        width: 328
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737b2cebd2a213e47bfd889dfd56d19e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_63
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 33
+        width: 328
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eaad1096973ccb4c8637c80d37ab81d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_64
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 32
+        width: 328
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b438212523d5145b8d7f0e0cb2c0e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_65
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 32
+        width: 328
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b518c8424889b34ab0437a69898de17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_66
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 30
+        width: 328
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af551df7626f369429b777865e57c52a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_67
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 30
+        width: 328
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c93b45acf73fa4f8b0c05807f9c58a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_68
+      rect:
+        serializedVersion: 2
+        x: 2302
+        y: 0
+        width: 328
+        height: 213
+      alignment: 9
+      pivot: {x: 0.49766725, y: 0.56465745}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea35cc6e9e929994789ddc38c745ae7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_69
+      rect:
+        serializedVersion: 2
+        x: 2630
+        y: 0
+        width: 328
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.565163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711d8318ce299264aa9e7790076f46a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_70
+      rect:
+        serializedVersion: 2
+        x: 2959
+        y: 0
+        width: 328
+        height: 217
+      alignment: 9
+      pivot: {x: 0.5, y: 0.54936224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eece593e714bbaa4c8f6f9b9dcffa0d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_71
+      rect:
+        serializedVersion: 2
+        x: 3286
+        y: 1
+        width: 328
+        height: 220
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5626001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbffb0c77472a249bcf5f7359eea7bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_72
+      rect:
+        serializedVersion: 2
+        x: 3614
+        y: 1
+        width: 328
+        height: 220
+      alignment: 9
+      pivot: {x: 0.5069982, y: 0.5556445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa45b0c12d308304a81eb975df8e3c70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_73
+      rect:
+        serializedVersion: 2
+        x: 3942
+        y: 1
+        width: 328
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5046655, y: 0.55193067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc06e3f291f99fe49903d2ebb4f95e52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_74
+      rect:
+        serializedVersion: 2
+        x: 4270
+        y: 1
+        width: 328
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5069982, y: 0.54846865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48657d9ee0b6d2b40ae6c74f6c29fd6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_75
+      rect:
+        serializedVersion: 2
+        x: 4598
+        y: 1
+        width: 328
+        height: 220
+      alignment: 9
+      pivot: {x: 0.5093309, y: 0.53825563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66618135149a0704e94af9675ad4d96c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_76
+      rect:
+        serializedVersion: 2
+        x: 4926
+        y: 1
+        width: 328
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5023372, y: 0.5513817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e57a24c4d979e4dbf468a347ae142a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_77
+      rect:
+        serializedVersion: 2
+        x: 5254
+        y: 1
+        width: 328
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5046655, y: 0.54891145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130c2c1cf5fbe54479398b3d4a2a27e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_78
+      rect:
+        serializedVersion: 2
+        x: 5582
+        y: 1
+        width: 328
+        height: 223
+      alignment: 9
+      pivot: {x: 0.5, y: 0.537741}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d9db23f86aa01438b2ce554ee8d8a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_79
+      rect:
+        serializedVersion: 2
+        x: 5910
+        y: 1
+        width: 328
+        height: 220
+      alignment: 9
+      pivot: {x: 0.50233275, y: 0.5486892}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90740df3e9d230b458323761523ceb50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DevochkaVse_80
+      rect:
+        serializedVersion: 2
+        x: 6238
+        y: 1
+        width: 328
+        height: 221
+      alignment: 9
+      pivot: {x: 0.50233424, y: 0.54154456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a9950f2ca66534ca7565a237e5fc82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 97641a72ac52ece4fbf714a5e92e3af0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
